@@ -1,4 +1,4 @@
-<img width="746" height="549" alt="image" src="https://github.com/user-attachments/assets/d75ed251-c58f-484e-8eb2-f8ef4a42e2b8" />МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ  
+МІНІСТЕРСТВО ОСВІТИ І НАУКИ УКРАЇНИ  
 КИЇВСЬКИЙ ФАХОВИЙ КОЛЕДЖ ЗВ'ЯЗКУ
 
 ЗВІТ
@@ -204,6 +204,7 @@
 * Опис фото 9 : Процес встановлення завершено. На екрані відображається статус "Complete\!", що свідчить про успішне додавання програми до системи та готовність її до роботи.
 
 <img width="653" height="233" alt="image" src="https://github.com/user-attachments/assets/48ba32ba-540a-4224-bd4e-dc7ee4862c86" />
+<img width="746" height="549" alt="image" src="https://github.com/user-attachments/assets/d75ed251-c58f-484e-8eb2-f8ef4a42e2b8" />
 
 
 | English Term | Переклад  | Опис |
