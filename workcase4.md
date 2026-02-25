@@ -72,8 +72,7 @@ dnf search htop
 Перед встановленням корисно дізнатися розмір програми, її версію та ліцензію.
 
 * Команда:
-```dnf info htop
-```
+```dnf info htop ```
 * Опис скриншота 3: Виведено детальні дані: версія 3.4.1, розмір завантаження 200 KiB, ліцензія GPL-2.0.
 
 <img width="738" height="543" alt="image" src="https://github.com/user-attachments/assets/30e3ec74-7071-4dfd-a711-c49cc059d1b5" />
